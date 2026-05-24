@@ -1,0 +1,4 @@
+#A list of biomes to ban npc spawn.
+banned_biomes = ["minecraft:mushroom_fields", "minecraft:deep_dark"]
+#A list of items to ban from being summoned by historical summon.
+banned_summoned_items = []
